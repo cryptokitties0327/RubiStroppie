@@ -35,6 +35,7 @@ To move from one card to another, the player uses the [Enter] key on their keybo
 ![Keyboard Controls](docs/keyboard_control.jpg)
 
 We encourage players to use this test before and after meditation and over a period of time to track their stress levels and effectiveness of meditation. 
+
 ![Meditation](docs/meditate_vector.jpg)
 
 ---
